@@ -2,7 +2,7 @@
 
 function myAnimal() {
 if (animal === 'cat') {
-  
+
 }
   return animal
 }
