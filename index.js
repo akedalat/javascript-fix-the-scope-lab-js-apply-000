@@ -1,12 +1,8 @@
- var animal = 'dog'
+ 
 
 function myAnimal() {
-if (animal === 'dog') {
-  return animal
-}
-if (animal === 'cat') {
-  return animal
-}
+var animal = 'dog'
+return animal
 }
 
 function yourAnimal() {
