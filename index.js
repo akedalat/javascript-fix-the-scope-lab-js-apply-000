@@ -4,6 +4,9 @@ function myAnimal() {
 if (animal === 'dog') {
   return animal
 }
+if (animal === 'cat') {
+  return animal
+}
 }
 
 function yourAnimal() {
