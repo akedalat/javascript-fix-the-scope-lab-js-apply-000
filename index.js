@@ -3,7 +3,7 @@
 function myAnimal(animal) {
 if (animal === 'do') {
   return animal
-}  
+}
 }
 
 function yourAnimal() {
