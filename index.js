@@ -1,7 +1,7 @@
  var animal = 'dog'
 
 function myAnimal() {
-if (animal === 'cat') {
+if (animal === 'dog') {
 
 }
   return animal
